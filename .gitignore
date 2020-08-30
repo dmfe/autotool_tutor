@@ -1,0 +1,12 @@
+**/.deps/
+**/Makefile
+**/*.in
+**/*.m4
+**/build-aux/
+**/config.h
+**/*.status
+**/*.log
+**/*.tar.gz
+**/stamp*
+**/*.cache/
+**/*.o
