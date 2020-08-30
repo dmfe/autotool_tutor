@@ -10,3 +10,4 @@
 **/stamp*
 **/*.cache/
 **/*.o
+**/.dirstamp
